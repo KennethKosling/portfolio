@@ -1,0 +1,16 @@
+.Links {
+  text-align: right;
+  padding: 30px 30px 0px 30px;
+}
+
+.linkedIn, .github {
+  height: 50px;
+}
+
+.linkedIn {
+  margin-right: 10px;
+}
+
+.github {
+  margin-left: 10px
+}
